@@ -1,15 +1,15 @@
-## Merhaba, Ben Murat! 👋
+## Hi there, I'm Murat! 👋
 
-**Doğuş Üniversitesi - Bilgisayar Programcılığı Öğrencisi** 💻
+**Computer Programming Student @ Doğuş University** 💻
 
-Ağ sistemleri, yazılım geliştirme ve IT operasyonları alanlarında kendimi geliştiriyorum. Geçmişte Hayat Holding'de 9 aylık IT Stajyerliği deneyimim ile kurumsal BT süreçlerinde pratik tecrübe edindim.
+I am currently focusing on network systems, software development, and IT operations. With my previous 9-month experience as an IT Intern at Hayat Holding, I gained hands-on practical knowledge in corporate IT processes and daily operations.
 
-### 🛠️ Yeteneklerim & Teknolojiler
-* **Yazılım Dilleri:** C#, C++, Python, JavaScript, HTML, CSS
-* **Mobil Geliştirme:** React Native
-* **Geliştirme Ortamları:** Visual Studio, VS Code
+### 🛠️ Skills & Technologies
+* **Languages:** C#, C++, Python, JavaScript, HTML, CSS
+* **Mobile Development:** React Native
+* **IDE & Tools:** Visual Studio, VS Code
 
-### 📫 Bana Ulaşın
+### 📫 Let's Connect!
 <p align="left">
   <!-- LinkedIn (Kendi linkini aşağıya yapıştır) -->
   <a href="https://linkedin.com/in/murat-k-593434383" target="blank">
