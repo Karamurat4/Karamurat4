@@ -1,16 +1,22 @@
-## Hi there 👋
+## Merhaba, Ben Murat! 👋
 
-<!--
-**Karamurat4/Karamurat4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Doğuş Üniversitesi - Bilgisayar Programcılığı Öğrencisi** 💻
 
-Here are some ideas to get you started:
+Ağ sistemleri, yazılım geliştirme ve IT operasyonları alanlarında kendimi geliştiriyorum. Geçmişte Hayat Holding'de 9 aylık IT Stajyerliği deneyimim ile kurumsal BT süreçlerinde pratik tecrübe edindim.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Yeteneklerim & Teknolojiler
+* **Yazılım Dilleri:** C#, C++, Python, JavaScript, HTML, CSS
+* **Mobil Geliştirme:** React Native
+* **Geliştirme Ortamları:** Visual Studio, VS Code
+
+### 📫 Bana Ulaşın
+<p align="left">
+  <!-- LinkedIn (Kendi linkini aşağıya yapıştır) -->
+  <a href="https://linkedin.com/in/murat-k-593434383" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <!-- E-Posta (Kendi mail adresini aşağıya yaz) -->
+  <a href="mailto:murat.karaaslan2801@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+</p>
